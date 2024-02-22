@@ -35,7 +35,7 @@ This JavaSwing application serves as a Human Resource Management tool, offering 
 <div align="center">
 
 ### Login Form
-    <img src="https://github.com/nptruong01/HR-Management-App/assets/113322089/cf7a010c-8f1b-491d-8bbc-ae98ba3fd38a" alt="Login Form" width="450"/>
+    <img src="https://github.com/nptruong01/HR-Management-App/assets/113322089/cf7a010c-8f1b-491d-8bbc-ae98ba3fd38a.png" alt="Login Form" width="450"/>
     <img src="https://github.com/nptruong01/HR-Management-App/assets/113322089/d5659192-770e-4623-bed2-1e92e9b3e5f2" alt="Login Form" width="450"/>
     <img src="https://github.com/nptruong01/HR-Management-App/assets/113322089/3ba841d5-b65f-4e63-a728-f1547b42ed5f" alt="Login Form" width="450"/>
 

@@ -60,6 +60,7 @@ This JavaSwing application serves as a Human Resource Management tool, offering 
 <img src="https://github.com/nptruong01/HR-Management-App/assets/113322089/5568a5bb-53f4-4872-a2be-5fe5451f6d0f" alt="Statistics Form" width="250"/>
 
 <div align="left">
+    
 ## Author
 
 - [Nguyen Phi Truong](https://github.com/nptruong01)
@@ -70,4 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact [your_email@example.com](mailto:your_email@example.com).
+For questions or support, please contact [phitruong170901@gmail.com](mailto:phitruong170901@gmail.com).

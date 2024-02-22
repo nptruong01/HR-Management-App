@@ -67,7 +67,7 @@ This JavaSwing application serves as a Human Resource Management tool, offering 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/nptruong01/HR-Management-App/blob/main/LICENSE).
 
 ## Contact
 

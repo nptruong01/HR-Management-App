@@ -30,6 +30,7 @@ This JavaSwing application serves as a Human Resource Management tool, offering 
     - Provides statistical analysis and reporting to support management decisions and company planning.
 ## Screenshots
 <div align="center">
+    
 ### Login Form
 <img src="https://github.com/nptruong01/HR-Management-App/assets/113322089/cf7a010c-8f1b-491d-8bbc-ae98ba3fd38a" alt="Login Form" width="250"/>
 <img src="https://github.com/nptruong01/HR-Management-App/assets/113322089/d5659192-770e-4623-bed2-1e92e9b3e5f2" alt="Login Form" width="250"/>

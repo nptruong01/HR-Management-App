@@ -59,6 +59,7 @@ This JavaSwing application serves as a Human Resource Management tool, offering 
 ### Statistics Form
 <img src="https://github.com/nptruong01/HR-Management-App/assets/113322089/5568a5bb-53f4-4872-a2be-5fe5451f6d0f" alt="Statistics Form" width="250"/>
 
+<div align="left">
 ## Author
 
 - [Nguyen Phi Truong](https://github.com/nptruong01)
